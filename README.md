@@ -21,7 +21,7 @@ A downloadable version of my resume is available [here](https://docs.google.com/
 
 ## 🌐 Live Website
 You can view the live portfolio here:  
-➡️ [https://yourusername.github.io/your-repo-name/](https://yourusername.github.io/benpav22/)
+➡️ [https://github.io/benpav22/](https://github.io/benpav22/)
 
 (Replace this link with your real GitHub Pages link once deployed!)
 
