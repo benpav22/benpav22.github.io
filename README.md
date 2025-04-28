@@ -17,17 +17,17 @@ Projects will be added soon! They will showcase real-world applications of data 
 - Data-driven insights for business decision-making
 
 ## 📄 Resume
-A downloadable version of my resume is available [here](./Ben_Pavone_Resume.pdf).
+A downloadable version of my resume is available [here](https://docs.google.com/document/d/1rGfwyLRJoeazdRVkhKXLuuTQrMBSpncgLRwBF9KmmYM/edit?usp=sharing).
 
 ## 🌐 Live Website
 You can view the live portfolio here:  
-➡️ [https://yourusername.github.io/your-repo-name/](https://yourusername.github.io/your-repo-name/)
+➡️ [https://yourusername.github.io/your-repo-name/](https://yourusername.github.io/benpav22/)
 
 (Replace this link with your real GitHub Pages link once deployed!)
 
 ## 📫 Contact
-- **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email:** ben-pavone@outlook.com
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ben-pavone)
 
 ---
 
